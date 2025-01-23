@@ -29,7 +29,6 @@ var isBalanced = function (root) {
         if (Math.abs(leftDepth - rightDepth) > 1) {
             return -1;
         }
-        console.log("left, right", leftDepth, rightDepth, root);
 
         return Math.max(leftDepth, rightDepth) + 1;
     };
