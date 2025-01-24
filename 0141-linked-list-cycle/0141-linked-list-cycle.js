@@ -15,15 +15,17 @@ var hasCycle = function (head) {
         return false;
     }
     
-    let nextNode = head;
+    let visitedNodes = new Set([head]);
+    let currentNode = head;
 
-    while (nextNode && nextNode.next) {
-        head = head.next;
-        nextNode = nextNode.next.next;
+    while (currentNode) {
+        currentNode = currentNode.next;
 
-        if (head === nextNode) {
+        if (visitedNodes.has(currentNode)) {
             return true;
         }
+        
+        visitedNodes.add(currentNode);
     }
 
     return false;
