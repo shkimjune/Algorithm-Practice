@@ -31,10 +31,12 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shkimjune/Algorithm-Practice/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/shkimjune/Algorithm-Practice/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/shkimjune/Algorithm-Practice/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/shkimjune/Algorithm-Practice/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/shkimjune/Algorithm-Practice/tree/master/0383-ransom-note) |
 ## Sorting
 |  |
 | ------- |
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/shkimjune/Algorithm-Practice/tree/master/0278-first-bad-version) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/shkimjune/Algorithm-Practice/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
