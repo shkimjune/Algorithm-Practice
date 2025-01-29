@@ -5,26 +5,20 @@
 var longestPalindrome = function (s) {
     const countLetters = new Map();
     let palindromeLength = 0;
+    let hasOdd = false;
 
-    for(const letter of s) {
+    for (const letter of s) {
         countLetters.set(letter, (countLetters.get(letter) || 0) + 1);
     }
 
-    let longestOddLetter = '';
-
-    countLetters.forEach((value, key) => {
+    countLetters.forEach((value) => {
         if (value % 2 === 0) {
             palindromeLength += value;
         } else {
             palindromeLength += value - 1;
-
-            if (longestOddLetter === '' || 
-                countLetters.get(key) > countLetters.get(longestOddLetter)) {
-                longestOddLetter = key;
-            }
+            hasOdd = true;
         }
     });
 
-    return longestOddLetter === '' ? palindromeLength
-        : palindromeLength + 1;
+    return hasOdd ? palindromeLength + 1 : palindromeLength;
 };
