@@ -37,6 +37,7 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shkimjune/Algorithm-Practice/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/shkimjune/Algorithm-Practice/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shkimjune/Algorithm-Practice/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/shkimjune/Algorithm-Practice/tree/master/0409-longest-palindrome) |
@@ -97,6 +98,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shkimjune/Algorithm-Practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shkimjune/Algorithm-Practice/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -118,4 +120,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shkimjune/Algorithm-Practice/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/shkimjune/Algorithm-Practice/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/shkimjune/Algorithm-Practice/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
