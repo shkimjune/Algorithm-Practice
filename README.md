@@ -38,6 +38,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shkimjune/Algorithm-Practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/shkimjune/Algorithm-Practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shkimjune/Algorithm-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shkimjune/Algorithm-Practice/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shkimjune/Algorithm-Practice/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/shkimjune/Algorithm-Practice/tree/master/0409-longest-palindrome) |
@@ -52,11 +53,13 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shkimjune/Algorithm-Practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shkimjune/Algorithm-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shkimjune/Algorithm-Practice/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shkimjune/Algorithm-Practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/shkimjune/Algorithm-Practice/tree/master/0217-contains-duplicate) |
 | [0733-flood-fill](https://github.com/shkimjune/Algorithm-Practice/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/shkimjune/Algorithm-Practice/tree/master/0792-binary-search) |
 ## Binary Search
