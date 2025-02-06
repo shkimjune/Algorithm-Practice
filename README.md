@@ -51,6 +51,7 @@
 | [0242-valid-anagram](https://github.com/shkimjune/Algorithm-Practice/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shkimjune/Algorithm-Practice/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/shkimjune/Algorithm-Practice/tree/master/0409-longest-palindrome) |
+| [0874-backspace-string-compare](https://github.com/shkimjune/Algorithm-Practice/tree/master/0874-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -87,11 +88,13 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shkimjune/Algorithm-Practice/tree/master/0141-linked-list-cycle) |
+| [0874-backspace-string-compare](https://github.com/shkimjune/Algorithm-Practice/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/shkimjune/Algorithm-Practice/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/shkimjune/Algorithm-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0874-backspace-string-compare](https://github.com/shkimjune/Algorithm-Practice/tree/master/0874-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
@@ -143,4 +146,5 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shkimjune/Algorithm-Practice/tree/master/0067-add-binary) |
+| [0874-backspace-string-compare](https://github.com/shkimjune/Algorithm-Practice/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
