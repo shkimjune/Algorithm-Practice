@@ -122,6 +122,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shkimjune/Algorithm-Practice/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/shkimjune/Algorithm-Practice/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shkimjune/Algorithm-Practice/tree/master/0067-add-binary) |
+| [0338-counting-bits](https://github.com/shkimjune/Algorithm-Practice/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
