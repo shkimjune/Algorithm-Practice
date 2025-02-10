@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shkimjune/Algorithm-Practice/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/shkimjune/Algorithm-Practice/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/shkimjune/Algorithm-Practice/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/shkimjune/Algorithm-Practice/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shkimjune/Algorithm-Practice/tree/master/0383-ransom-note) |
@@ -155,4 +156,8 @@
 | ------- |
 | [0067-add-binary](https://github.com/shkimjune/Algorithm-Practice/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/shkimjune/Algorithm-Practice/tree/master/0874-backspace-string-compare) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shkimjune/Algorithm-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
