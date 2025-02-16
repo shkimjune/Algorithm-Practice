@@ -8,6 +8,7 @@
 | [0100-same-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -37,6 +38,7 @@
 | [0100-same-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -72,6 +74,7 @@
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/shkimjune/Algorithm-Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shkimjune/Algorithm-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shkimjune/Algorithm-Practice/tree/master/0217-contains-duplicate) |
@@ -92,6 +95,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Linked List
 |  |
@@ -160,6 +164,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/shkimjune/Algorithm-Practice/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/shkimjune/Algorithm-Practice/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
