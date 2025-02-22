@@ -78,6 +78,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shkimjune/Algorithm-Practice/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/shkimjune/Algorithm-Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shkimjune/Algorithm-Practice/tree/master/0169-majority-element) |
@@ -152,6 +153,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shkimjune/Algorithm-Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shkimjune/Algorithm-Practice/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/shkimjune/Algorithm-Practice/tree/master/0338-counting-bits) |
 ## Memoization
@@ -170,6 +172,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shkimjune/Algorithm-Practice/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/shkimjune/Algorithm-Practice/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/shkimjune/Algorithm-Practice/tree/master/0190-reverse-bits) |
