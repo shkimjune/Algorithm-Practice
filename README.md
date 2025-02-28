@@ -75,6 +75,7 @@
 | [0217-contains-duplicate](https://github.com/shkimjune/Algorithm-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shkimjune/Algorithm-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shkimjune/Algorithm-Practice/tree/master/0268-missing-number) |
+| [1014-k-closest-points-to-origin](https://github.com/shkimjune/Algorithm-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/shkimjune/Algorithm-Practice/tree/master/1019-squares-of-a-sorted-array) |
 ## Array
 |  |
@@ -90,6 +91,7 @@
 | [0542-01-matrix](https://github.com/shkimjune/Algorithm-Practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shkimjune/Algorithm-Practice/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/shkimjune/Algorithm-Practice/tree/master/0792-binary-search) |
+| [1014-k-closest-points-to-origin](https://github.com/shkimjune/Algorithm-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/shkimjune/Algorithm-Practice/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -154,6 +156,7 @@
 | [0067-add-binary](https://github.com/shkimjune/Algorithm-Practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shkimjune/Algorithm-Practice/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/shkimjune/Algorithm-Practice/tree/master/0268-missing-number) |
+| [1014-k-closest-points-to-origin](https://github.com/shkimjune/Algorithm-Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -182,6 +185,7 @@
 | [0169-majority-element](https://github.com/shkimjune/Algorithm-Practice/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/shkimjune/Algorithm-Practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/shkimjune/Algorithm-Practice/tree/master/0191-number-of-1-bits) |
+| [1014-k-closest-points-to-origin](https://github.com/shkimjune/Algorithm-Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -208,4 +212,16 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0572-subtree-of-another-tree) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/shkimjune/Algorithm-Practice/tree/master/1014-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/shkimjune/Algorithm-Practice/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/shkimjune/Algorithm-Practice/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
