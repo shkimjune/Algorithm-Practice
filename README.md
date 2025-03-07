@@ -94,6 +94,7 @@
 | [0057-insert-interval](https://github.com/shkimjune/Algorithm-Practice/tree/master/0057-insert-interval) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/shkimjune/Algorithm-Practice/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shkimjune/Algorithm-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/shkimjune/Algorithm-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shkimjune/Algorithm-Practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shkimjune/Algorithm-Practice/tree/master/0268-missing-number) |
@@ -139,6 +140,7 @@
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shkimjune/Algorithm-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/shkimjune/Algorithm-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shkimjune/Algorithm-Practice/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/shkimjune/Algorithm-Practice/tree/master/0874-backspace-string-compare) |
@@ -166,6 +168,7 @@
 | [0013-roman-to-integer](https://github.com/shkimjune/Algorithm-Practice/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/shkimjune/Algorithm-Practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shkimjune/Algorithm-Practice/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shkimjune/Algorithm-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/shkimjune/Algorithm-Practice/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/shkimjune/Algorithm-Practice/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
