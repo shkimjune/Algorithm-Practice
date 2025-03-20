@@ -106,6 +106,7 @@
 | [0053-maximum-subarray](https://github.com/shkimjune/Algorithm-Practice/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/shkimjune/Algorithm-Practice/tree/master/0057-insert-interval) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shkimjune/Algorithm-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shkimjune/Algorithm-Practice/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shkimjune/Algorithm-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/shkimjune/Algorithm-Practice/tree/master/0169-majority-element) |
@@ -200,6 +201,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/shkimjune/Algorithm-Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shkimjune/Algorithm-Practice/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shkimjune/Algorithm-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/shkimjune/Algorithm-Practice/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/shkimjune/Algorithm-Practice/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/shkimjune/Algorithm-Practice/tree/master/0542-01-matrix) |
