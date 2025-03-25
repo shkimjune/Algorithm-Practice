@@ -78,6 +78,7 @@
 | [0268-missing-number](https://github.com/shkimjune/Algorithm-Practice/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/shkimjune/Algorithm-Practice/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/shkimjune/Algorithm-Practice/tree/master/0409-longest-palindrome) |
+| [1023-time-based-key-value-store](https://github.com/shkimjune/Algorithm-Practice/tree/master/1023-time-based-key-value-store) |
 ## String
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0383-ransom-note](https://github.com/shkimjune/Algorithm-Practice/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/shkimjune/Algorithm-Practice/tree/master/0409-longest-palindrome) |
 | [0874-backspace-string-compare](https://github.com/shkimjune/Algorithm-Practice/tree/master/0874-backspace-string-compare) |
+| [1023-time-based-key-value-store](https://github.com/shkimjune/Algorithm-Practice/tree/master/1023-time-based-key-value-store) |
 ## Sorting
 |  |
 | ------- |
@@ -135,6 +137,7 @@
 | [0268-missing-number](https://github.com/shkimjune/Algorithm-Practice/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/shkimjune/Algorithm-Practice/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/shkimjune/Algorithm-Practice/tree/master/0792-binary-search) |
+| [1023-time-based-key-value-store](https://github.com/shkimjune/Algorithm-Practice/tree/master/1023-time-based-key-value-store) |
 ## Matrix
 |  |
 | ------- |
@@ -180,6 +183,7 @@
 | [0155-min-stack](https://github.com/shkimjune/Algorithm-Practice/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/shkimjune/Algorithm-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [1023-time-based-key-value-store](https://github.com/shkimjune/Algorithm-Practice/tree/master/1023-time-based-key-value-store) |
 ## Queue
 |  |
 | ------- |
