@@ -33,6 +33,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0572-subtree-of-another-tree) |
+| [0721-accounts-merge](https://github.com/shkimjune/Algorithm-Practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shkimjune/Algorithm-Practice/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -47,6 +48,7 @@
 | [0226-invert-binary-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/shkimjune/Algorithm-Practice/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/shkimjune/Algorithm-Practice/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/shkimjune/Algorithm-Practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shkimjune/Algorithm-Practice/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/shkimjune/Algorithm-Practice/tree/master/1036-rotting-oranges) |
 ## Binary Tree
@@ -78,6 +80,7 @@
 | [0268-missing-number](https://github.com/shkimjune/Algorithm-Practice/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/shkimjune/Algorithm-Practice/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/shkimjune/Algorithm-Practice/tree/master/0409-longest-palindrome) |
+| [0721-accounts-merge](https://github.com/shkimjune/Algorithm-Practice/tree/master/0721-accounts-merge) |
 | [1023-time-based-key-value-store](https://github.com/shkimjune/Algorithm-Practice/tree/master/1023-time-based-key-value-store) |
 ## String
 |  |
@@ -90,6 +93,7 @@
 | [0242-valid-anagram](https://github.com/shkimjune/Algorithm-Practice/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/shkimjune/Algorithm-Practice/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/shkimjune/Algorithm-Practice/tree/master/0409-longest-palindrome) |
+| [0721-accounts-merge](https://github.com/shkimjune/Algorithm-Practice/tree/master/0721-accounts-merge) |
 | [0874-backspace-string-compare](https://github.com/shkimjune/Algorithm-Practice/tree/master/0874-backspace-string-compare) |
 | [1023-time-based-key-value-store](https://github.com/shkimjune/Algorithm-Practice/tree/master/1023-time-based-key-value-store) |
 ## Sorting
@@ -101,6 +105,7 @@
 | [0217-contains-duplicate](https://github.com/shkimjune/Algorithm-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shkimjune/Algorithm-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shkimjune/Algorithm-Practice/tree/master/0268-missing-number) |
+| [0721-accounts-merge](https://github.com/shkimjune/Algorithm-Practice/tree/master/0721-accounts-merge) |
 | [1014-k-closest-points-to-origin](https://github.com/shkimjune/Algorithm-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/shkimjune/Algorithm-Practice/tree/master/1019-squares-of-a-sorted-array) |
 ## Array
@@ -125,6 +130,7 @@
 | [0283-move-zeroes](https://github.com/shkimjune/Algorithm-Practice/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/shkimjune/Algorithm-Practice/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/shkimjune/Algorithm-Practice/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/shkimjune/Algorithm-Practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shkimjune/Algorithm-Practice/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/shkimjune/Algorithm-Practice/tree/master/0792-binary-search) |
 | [1014-k-closest-points-to-origin](https://github.com/shkimjune/Algorithm-Practice/tree/master/1014-k-closest-points-to-origin) |
@@ -295,6 +301,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shkimjune/Algorithm-Practice/tree/master/0200-number-of-islands) |
+| [0721-accounts-merge](https://github.com/shkimjune/Algorithm-Practice/tree/master/0721-accounts-merge) |
 ## Backtracking
 |  |
 | ------- |
