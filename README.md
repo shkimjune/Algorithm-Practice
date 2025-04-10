@@ -225,6 +225,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/shkimjune/Algorithm-Practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shkimjune/Algorithm-Practice/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/shkimjune/Algorithm-Practice/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/shkimjune/Algorithm-Practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shkimjune/Algorithm-Practice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shkimjune/Algorithm-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -235,6 +236,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shkimjune/Algorithm-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/shkimjune/Algorithm-Practice/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/shkimjune/Algorithm-Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shkimjune/Algorithm-Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shkimjune/Algorithm-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/shkimjune/Algorithm-Practice/tree/master/0139-word-break) |
@@ -336,4 +338,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shkimjune/Algorithm-Practice/tree/master/0238-product-of-array-except-self) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/shkimjune/Algorithm-Practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
