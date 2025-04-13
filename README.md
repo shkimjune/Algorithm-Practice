@@ -107,6 +107,7 @@
 | [0721-accounts-merge](https://github.com/shkimjune/Algorithm-Practice/tree/master/0721-accounts-merge) |
 | [0874-backspace-string-compare](https://github.com/shkimjune/Algorithm-Practice/tree/master/0874-backspace-string-compare) |
 | [1023-time-based-key-value-store](https://github.com/shkimjune/Algorithm-Practice/tree/master/1023-time-based-key-value-store) |
+| [1720-crawler-log-folder](https://github.com/shkimjune/Algorithm-Practice/tree/master/1720-crawler-log-folder) |
 ## Sorting
 |  |
 | ------- |
@@ -154,6 +155,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/shkimjune/Algorithm-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/shkimjune/Algorithm-Practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/shkimjune/Algorithm-Practice/tree/master/1036-rotting-oranges) |
+| [1720-crawler-log-folder](https://github.com/shkimjune/Algorithm-Practice/tree/master/1720-crawler-log-folder) |
 ## Binary Search
 |  |
 | ------- |
@@ -204,6 +206,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/shkimjune/Algorithm-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shkimjune/Algorithm-Practice/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/shkimjune/Algorithm-Practice/tree/master/0874-backspace-string-compare) |
+| [1720-crawler-log-folder](https://github.com/shkimjune/Algorithm-Practice/tree/master/1720-crawler-log-folder) |
 ## Design
 |  |
 | ------- |
