@@ -21,6 +21,7 @@
 | [0226-invert-binary-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/shkimjune/Algorithm-Practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -42,6 +43,7 @@
 | [0226-invert-binary-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/shkimjune/Algorithm-Practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0721-accounts-merge](https://github.com/shkimjune/Algorithm-Practice/tree/master/0721-accounts-merge) |
@@ -84,6 +86,7 @@
 | [0226-invert-binary-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/shkimjune/Algorithm-Practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0572-subtree-of-another-tree) |
 ## Hash Table
@@ -116,6 +119,7 @@
 | [0139-word-break](https://github.com/shkimjune/Algorithm-Practice/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/shkimjune/Algorithm-Practice/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/shkimjune/Algorithm-Practice/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/shkimjune/Algorithm-Practice/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/shkimjune/Algorithm-Practice/tree/master/0409-longest-palindrome) |
 | [0721-accounts-merge](https://github.com/shkimjune/Algorithm-Practice/tree/master/0721-accounts-merge) |
@@ -358,6 +362,7 @@
 | [0039-combination-sum](https://github.com/shkimjune/Algorithm-Practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/shkimjune/Algorithm-Practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/shkimjune/Algorithm-Practice/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/shkimjune/Algorithm-Practice/tree/master/0257-binary-tree-paths) |
 ## Prefix Sum
 |  |
 | ------- |
