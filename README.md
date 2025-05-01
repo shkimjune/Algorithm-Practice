@@ -157,6 +157,7 @@
 | [0078-subsets](https://github.com/shkimjune/Algorithm-Practice/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shkimjune/Algorithm-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/shkimjune/Algorithm-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shkimjune/Algorithm-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shkimjune/Algorithm-Practice/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/shkimjune/Algorithm-Practice/tree/master/0139-word-break) |
@@ -269,6 +270,7 @@
 | [0053-maximum-subarray](https://github.com/shkimjune/Algorithm-Practice/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/shkimjune/Algorithm-Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shkimjune/Algorithm-Practice/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/shkimjune/Algorithm-Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shkimjune/Algorithm-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/shkimjune/Algorithm-Practice/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/shkimjune/Algorithm-Practice/tree/master/0322-coin-change) |
