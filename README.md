@@ -177,6 +177,7 @@
 | [0542-01-matrix](https://github.com/shkimjune/Algorithm-Practice/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/shkimjune/Algorithm-Practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shkimjune/Algorithm-Practice/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/shkimjune/Algorithm-Practice/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/shkimjune/Algorithm-Practice/tree/master/0792-binary-search) |
 | [1014-k-closest-points-to-origin](https://github.com/shkimjune/Algorithm-Practice/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/shkimjune/Algorithm-Practice/tree/master/1019-squares-of-a-sorted-array) |
@@ -236,6 +237,7 @@
 | [0155-min-stack](https://github.com/shkimjune/Algorithm-Practice/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/shkimjune/Algorithm-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shkimjune/Algorithm-Practice/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/shkimjune/Algorithm-Practice/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/shkimjune/Algorithm-Practice/tree/master/0874-backspace-string-compare) |
 | [1720-crawler-log-folder](https://github.com/shkimjune/Algorithm-Practice/tree/master/1720-crawler-log-folder) |
 ## Design
@@ -389,4 +391,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shkimjune/Algorithm-Practice/tree/master/0062-unique-paths) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/shkimjune/Algorithm-Practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
