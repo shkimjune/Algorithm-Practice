@@ -209,6 +209,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shkimjune/Algorithm-Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/shkimjune/Algorithm-Practice/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/shkimjune/Algorithm-Practice/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/shkimjune/Algorithm-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shkimjune/Algorithm-Practice/tree/master/0234-palindrome-linked-list) |
@@ -221,6 +222,7 @@
 | [0015-3sum](https://github.com/shkimjune/Algorithm-Practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shkimjune/Algorithm-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shkimjune/Algorithm-Practice/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/shkimjune/Algorithm-Practice/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/shkimjune/Algorithm-Practice/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/shkimjune/Algorithm-Practice/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/shkimjune/Algorithm-Practice/tree/master/0234-palindrome-linked-list) |
