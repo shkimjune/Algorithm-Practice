@@ -153,6 +153,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shkimjune/Algorithm-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shkimjune/Algorithm-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shkimjune/Algorithm-Practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shkimjune/Algorithm-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -195,6 +196,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shkimjune/Algorithm-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shkimjune/Algorithm-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/shkimjune/Algorithm-Practice/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/shkimjune/Algorithm-Practice/tree/master/0278-first-bad-version) |
@@ -320,6 +322,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shkimjune/Algorithm-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/shkimjune/Algorithm-Practice/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shkimjune/Algorithm-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shkimjune/Algorithm-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
